@@ -1,7 +1,7 @@
 # O‘ahu ice cream & waves
 
 ## Overview of the statistical analysis
-The purpose of this analysis is to obtain statistical parameters for the viability of a new business in Oahu - Hawai. The shop will provide ice-cream products and surfing supplies, that is why it is important to anlyse the weather precipitation and temperature in the area. The sample data for this report will be based on two months: June and December.
+The purpose of this analysis is to obtain statistical parameters for the viability of a new business in Oahu - Hawai. The shop will provide ice-cream products and surfing supplies, that is why it is important to analyze the weather precipitation and temperature in the area. The sample data for this report will be based on two months: June and December. Additionally, we will include a couple of extra queries to support the final conclusions.
 
 ## Results
 
@@ -17,7 +17,7 @@ Results based on June and December statistical analysis:
 
 - The small difference between the number of samples (count) to calculate the statistical results for both months shows that the comparison will provide an accurate analysis and estimation.
 
-- The average shows a higher result for June than for December. It seems as if there is a high chance to increase the ice-cream selling margin during June because of the good conditions. 
+- The average shows a higher result for June than for December. There is a high chance to increase the ice-cream selling margin during June because of the good conditions. 
 
 - The maximum temperatures are very similar for both months. Despite of the lower average in December, Hawaii will have some days with a high temperature very close to the maximum in June.
 
@@ -25,7 +25,7 @@ Results based on June and December statistical analysis:
 
 ## Summary
 
-1. O‘ahu is an island part of the Honolulu county. Based on the table: station (part of the database hawaii.sqlite), the station ID for this county is USC00511918. I will include some additional results based on the location. The previous June/December temperature was an overall for all Hawaii, the following result will be focused on the Honolulu station. Considering only the 2010-2015 period, the average temperature presents a propitious weather for the shop. 
+1. O‘ahu is an island part of the Honolulu county. Based on the table: station (part of the database hawaii.sqlite), the station ID for this county is USC00511918. I will include some additional results based on the location. The previous June/December temperature was an overall for all Hawaii, the following result will be focused on the Honolulu station. Considering only the 2010-2015 period, the average temperature (71.62 F) presents a propitious weather for the shop. 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88695570/137837684-a1136fb0-fcba-4afe-9811-b85eb5ff171b.png">
 
